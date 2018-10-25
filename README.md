@@ -1,4 +1,4 @@
-# *DIY Spectrometer* - An Overview of repositories content and purpose.
+# *DIY Spectrometer* - An Overview of repository's content and purpose.
 
 **Our** *git repository* contains any information collected during a journey of
 prototyping an open sourced *DIY* spectroscopy devices.
