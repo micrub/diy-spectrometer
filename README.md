@@ -15,6 +15,9 @@ that must include only references that have a semantic relation to *this* reposi
 and will be shared through a Twitter. Sadly, this is the only way i am aware of sharing a content
 through [Pocket](https://app.getpocket.com/).
 
+# Contact
+
+* [twitter@DiySpectrometer](https://twitter.com/DiySpectrometer)
 
 
 
