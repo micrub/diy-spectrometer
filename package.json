@@ -1,6 +1,6 @@
 {
   "name": "diy-spectrometer",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "**Our** *git repository* contains any information collected during a journey of prototyping an open sourced *DIY* spectroscopy devices. While the *moto* is to have an professionally extensive and open knowledge base, for those whom has some interest in the subject.",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/micrub/diy-spectrometer/issues"
   },
-  "homepage": "https://github.com/micrub/diy-spectrometer#readme"
+  "homepage": "https://github.com/micrub/diy-spectrometer#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "debug": "^4.1.0",
+    "mocha": "^5.2.0"
+  }
 }
