@@ -11,13 +11,14 @@ for those whom has some interest in the subject.
 
 For this purpose, an [*dedicated user*](mailto:diy-spectrometer@protonmail.com),
 will maintain a [Pocket](https://app.getpocket.com/) account,
-that must include only references that have a semantic relation to *this* repository's *subject*
-and will be shared through a Twitter. Sadly, this is the only way i am aware of sharing a content
-through [Pocket](https://app.getpocket.com/).
+that must include only references collected in a *context* of repository's **context**
+and will be shared through out [twitter@DiySpectrometer](https://twitter.com/DiySpectrometer). 
+Sadly, this is the only way i am aware of sharing a contentthrough [Pocket](https://app.getpocket.com/) for now.
 
-# Contact
+# Contact details
 
 * [twitter@DiySpectrometer](https://twitter.com/DiySpectrometer)
+* [email](mailto:diy-spectrometer@protonmail.com)
 
 
 
